@@ -74,7 +74,7 @@ a:active {
 	width: 4px;
 	height: 49px;
 	left: -13px;
-	background: #6666CC;
+	background: var(--purple-color);
 	box-shadow: 0px 2px 10px rgba(102, 102, 204, 0.67);
 }
 
